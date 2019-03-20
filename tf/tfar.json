@@ -1,6 +1,6 @@
 {
   "name": "Task Force Arma 3 Radio",
   "author": "Task Force Arrowhead Radio Team",
-  "github": "michail-nikolaev",
+  "github": "michail-nikolaev/task-force-arma-3-radio",
   "depends": ["cba"]
 }
