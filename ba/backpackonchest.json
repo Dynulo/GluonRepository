@@ -1,0 +1,6 @@
+{
+  "name": "BackpackOnChest",
+  "author": "DerZade",
+  "github": "DerZade/BackpackOnChest",
+  "depends": ["ace3"]
+}
