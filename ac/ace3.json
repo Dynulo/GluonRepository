@@ -1,5 +1,6 @@
 {
   "name": "Advanced Combat Environment 3",
   "author": "ACEMOD",
-  "github": "acemod/ACE3"
+  "github": "acemod/ACE3",
+  "depends": ["cba"]
 }
