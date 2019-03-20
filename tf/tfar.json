@@ -1,0 +1,6 @@
+{
+  "name": "Task Force Arma 3 Radio",
+  "author": "Task Force Arrowhead Radio Team",
+  "github": "michail-nikolaev",
+  "depends": ["cba"]
+}

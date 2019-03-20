@@ -1,0 +1,7 @@
+{
+  "name": "DUI - Squad Radar for ARMA 3",
+  "author": "diwako",
+  "github": "diwako/diwako_dui",
+  "depends": ["cba"],
+  "peer": ["ace3"],
+}

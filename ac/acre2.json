@@ -1,0 +1,7 @@
+{
+  "name": "ACRE2",
+  "author": "IDI Systems",
+  "github": "idi-systems/acre2",
+  "depends": ["cba"],
+  "peer": ["ace3"]
+}

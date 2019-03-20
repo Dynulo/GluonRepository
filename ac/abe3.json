@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Banana Environment",
+  "author": "acemod",
+  "github": "acemod/ABE3",
+  "depends": ["ace3", "cba"]
+}

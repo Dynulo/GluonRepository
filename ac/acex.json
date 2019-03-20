@@ -1,0 +1,6 @@
+{
+  "name": "ACEX",
+  "author": "acemod",
+  "github": "acemod/acex",
+  "depends": ["ace3", "cba"]
+}

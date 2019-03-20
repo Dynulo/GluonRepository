@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Light Infantry Virtual Environment (ALiVE)",
+  "author": "ALiVEOS",
+  "github": "ALiVEOS/ALiVE.OS",
+  "depends": ["cba"]
+}

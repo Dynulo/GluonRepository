@@ -1,0 +1,7 @@
+{
+  "name": "Achilles",
+  "author": "ArmaAchilles",
+  "github": "ArmaAchilles/Achilles",
+  "depends": ["cba"],
+  "peer": ["ace3", "advanced_rappelling", "tfar"]
+}
